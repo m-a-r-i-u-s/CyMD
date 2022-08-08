@@ -1,0 +1,7 @@
+dist/
+build/
+*.c
+*.gro
+*.pdb
+*.egg-info
+__pycache__
